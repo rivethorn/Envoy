@@ -1,8 +1,10 @@
 Envoy
 
----------------
+-----
 
 A TUI app for managing environment variables on Linux systems
 written in Go
 
 Still very much in development
+
+it's basically unusable at this stage
